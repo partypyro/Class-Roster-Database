@@ -4,4 +4,4 @@ Written in C++
 
 Screenshot:
 
-![Screenshot](https://github.com/partypyro/Class-Roster-Database/master/screenshot.png)
+![screenshot](https://github.com/partypyro/Class-Roster-Database/blob/master/screenshot.png)
